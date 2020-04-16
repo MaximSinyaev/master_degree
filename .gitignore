@@ -1,3 +1,14 @@
+# Docx
+*.docx
+*.doc
+*.odt
+*#
+
+# Directorys
+lit
+media
+ex
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
