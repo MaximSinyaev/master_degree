@@ -3,4 +3,5 @@ r_file: 1_20static_3
 P_max = 15 MWt (normal mode)
 P_max_bad = 13.8 MWt(bad operating mode)
 P_max_bad - P_max_bad * 8% = 12.69
+P_max_bad - P_max_bad * 20% = 11.04
 Automatic: drop-line 0.1s

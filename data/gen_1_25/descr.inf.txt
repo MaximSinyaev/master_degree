@@ -3,3 +3,5 @@ r_file: 1_20static_2
 P_max = 23.2 MWt (normal mode)
 P_max_bad = 21.7 MWt(bad operating mode)
 P_max_bad - P_max_bad * 8% = 20MWt
+P_max_bad - P_max_bad * 20% = 17.4MWt
+Automatic: drop-line 0.2s

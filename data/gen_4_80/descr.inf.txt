@@ -1,0 +1,7 @@
+Gen 80MWt U = 10.5
+r_file: 1_20static_5_10kV
+P_max = 30.4 MWt (normal mode)
+P_max_bad = 26.3 MWt(bad operating mode)
+P_max_bad - P_max_bad * 8% = 24.196MWt
+P_max_bad - P_max_bad * 20% = 21.04MWt
+Automatic: 3-pahse short  circuit 0.16s
