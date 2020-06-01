@@ -3,11 +3,13 @@
 *.doc
 *.odt
 *#
+*.odf
 
 # Directorys
 lit
 media
 ex
+*catboost*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
